@@ -1,5 +1,7 @@
 # Co-Occurence Matrix Visualization
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://www.youtube.com/watch?v=LcrLdZ_jjwA )
+To Watch The Video Click on Image
+
+[![Watch the video](CoOccurenceMatrix.png)](https://www.youtube.com/watch?v=LcrLdZ_jjwA )
 
 
